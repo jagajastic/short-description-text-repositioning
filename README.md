@@ -72,3 +72,9 @@ Note: if you notice some funnyy width to the div pr section in the single produc
 ## What else do I need to do
 
 Now Installl the plugin.
+
+
+
+Feel free to contribut to this plugin if you feel the plugin needs more functionality.
+
+Note: This plugin is still undergoing improvement but it works effectively
